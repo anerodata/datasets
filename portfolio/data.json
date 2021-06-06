@@ -439,5 +439,14 @@
 		"organización": "Civio",
 		"descripción": ["visualización interactiva", "gráfico", "buscador"],
 		"id": "47"
+	},
+	{
+		"titulo": "Todos los contratos de emergencia adjudicados y publicados en 2020",
+		"fecha": "2021-03-23",
+		"url": "https://civio.es/quien-cobra-la-obra/buscador-de-contratos-de-emergencia/",
+		"biblioteca": ["vue.js"],
+		"organización": "Civio",
+		"descripción": ["buscador"],
+		"id": "48"
 	}
 ]
